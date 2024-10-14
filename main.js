@@ -1,1 +1,1 @@
-const pair =ff f "extraordinary";
+const pair = "bean extraordinary";
